@@ -5,6 +5,7 @@ def create_file():
             file.write("This is another string\n")
             file.write("This is a number: 123\n")
             file.write("This is amazing")
+            file.write("This is quite distubing")
     except Exception as e:
         print(f"An error occurred while creating the file: {e}")
 
