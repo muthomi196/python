@@ -1,0 +1,6 @@
+This is a string
+This is another string
+This is a number: 123
+This is amazingThis is a new line in append mode
+This is another new line in append mode
+This is the last new line in append mode
